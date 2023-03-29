@@ -159,7 +159,11 @@ void assdsa() {
   printf("sdsd");
 }
 
-// mko
+void azame2_mknie2() {
+  printf("Afreen Zameer and Mathias Kniesel\n");
+  printf("Something we learned was how to fork a repository.\n");
+  printf("A problem we encountered was linking our github with our terminal\n");
+}
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
